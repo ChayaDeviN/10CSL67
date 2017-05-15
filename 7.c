@@ -1,4 +1,4 @@
-#include<GL/glut.h>
+#include<gl/glut.h>
 #include<stdlib.h>
 void wall(double thickness)
 {
